@@ -1,4 +1,4 @@
-<img width="485" height="2268" alt="image" src="https://github.com/user-attachments/assets/469c9034-9a5e-48ad-a1eb-abd5fab18b0c" />
+
 
 
 
@@ -125,5 +125,5 @@ GitHub: https://github.com/YOUR_USERNAME
 ---
 
 ### ⭐ Quote
-
+## nsu python project
 "Learning Python one project at a time."
