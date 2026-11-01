@@ -127,3 +127,88 @@ GitHub: https://github.com/YOUR_USERNAME
 ### ⭐ Quote
 ## nsu python project
 "Learning Python one project at a time."
+# 🏦 Self-Bank Management System
+
+A banking management project developed using Python and MySQL.
+
+## 📌 About the Project
+
+Self-Bank Management System is a Python project designed to practice object-oriented programming, database connectivity, and SQL operations.
+
+The project uses MySQL to store and manage banking-related information.
+
+## 🛠️ Technologies Used
+
+- Python
+- MySQL
+- `mysql.connector`
+- `colorama`
+- Object-Oriented Programming (OOP)
+
+## ✨ Main Features
+
+- Manager and user login functionality
+- Customer information management
+- Employee management
+- Customer account information
+- Deposit and withdrawal operations
+- Customer record updates and deletion
+- Date and time display
+- MySQL database connectivity
+
+*Note: Features should be tested before considering the project complete.*
+
+## ⚙️ Requirements
+
+Install Python and MySQL on your computer.
+
+Install the required Python libraries:
+
+```bash
+pip install mysql-connector-python colorama
+```
+
+## 🚀 How to Run
+
+1. Install Python and MySQL.
+2. Install the required libraries.
+3. Configure your MySQL connection details.
+4. Make sure the database user has the required permissions.
+5. Run the Python project:
+
+```bash
+python main.py
+```
+
+Replace `main.py` with your actual Python filename if it is different.
+
+## 🔐 Security Notice
+
+- Do not upload real passwords or customer information.
+- Do not store database credentials directly in public source code.
+- Use environment variables for database credentials.
+- Use test data while developing and testing the project.
+
+## 📚 Learning Goals
+
+This project provides practice with:
+
+- Python classes and objects
+- Inheritance and methods
+- MySQL database connectivity
+- SQL queries and database operations
+- Exception handling
+- Practical project development
+
+## 👨‍💻 Author
+
+Raj Sharma
+
+## 📈 Future Improvements
+
+- Improve input validation and error handling.
+- Strengthen login security.
+- Use parameterized SQL queries consistently.
+- Add transaction and balance validation.
+- Test all features and fix remaining bugs.
+- Improve the user interface.
