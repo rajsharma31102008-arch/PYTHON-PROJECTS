@@ -212,3 +212,108 @@ Raj Sharma
 - Add transaction and balance validation.
 - Test all features and fix remaining bugs.
 - Improve the user interface.
+
+- ## Student Results Management System
+
+## 📌 About the Project
+
+The Student Results Management System is a Python-based project developed to manage student records, marks, results, and teacher information using a MySQL database.
+
+The project connects Python with MySQL to store and manage student information. It also uses Pandas to export database records into Excel files.
+
+## 🚀 Features
+
+- MySQL database connectivity
+- Student record management
+- Teacher information management
+- Student marks entry
+- Best-five marks calculation
+- Total marks and percentage calculation
+- Search student records using roll number and roll code
+- Update student information
+- Export student records to Excel
+- Export teacher records to Excel
+- Colored terminal output using Colorama
+- Date and time handling
+
+## 🛠️ Technologies Used
+
+- Python
+- MySQL
+- Pandas
+- MySQL Connector
+- Colorama
+- Excel
+
+## 📂 Project Structure
+
+```text
+Student-Results-Management-System/
+│
+├── main.py
+├── README.md
+├── student.xlsx
+└── teacher.xlsx
+```
+
+*Note: Update the file names according to your actual project.*
+
+## ⚙️ Installation
+
+Install the required Python libraries:
+
+```bash
+pip install pandas
+pip install mysql-connector-python
+pip install colorama
+```
+
+Make sure MySQL Server is installed and running.
+
+## 🗄️ Database Setup
+
+Create a MySQL database named:
+
+```sql
+CREATE DATABASE results;
+```
+
+Configure your MySQL connection details in the Python program.
+
+**Important:** Never upload your actual database password or private credentials to GitHub.
+
+## ▶️ How to Run
+
+1. Install Python.
+2. Install MySQL Server.
+3. Install the required Python libraries.
+4. Configure your MySQL database connection.
+5. Run the Python file:
+
+```bash
+python main.py
+```
+
+## 📊 Excel Export
+
+The project uses Pandas to export database records into Excel files.
+
+- `student.xlsx` – Student records
+- `teacher.xlsx` – Teacher records
+
+## 🔮 Future Improvements
+
+- Graphical User Interface (GUI)
+- Student login system
+- Teacher dashboard
+- Secure password hashing
+- Better result reports
+- Search and filter options
+
+## 👨‍💻 Developer
+
+Developed as a Python and MySQL learning project.
+
+---
+
+**Thank you for visiting my project!**
